@@ -1,7 +1,7 @@
 {
   "name": "Hecho por Sammy.#3359",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hola soy Sammy, este es el código que actualmente funciona con v13 en discord.js, pero te recomiendo leer cada función que hace cada cosa, si no no aprenderas a programar por tu cuenta y solo seras un c&p",
   "main": "index.js",
   "scripts": {
     "start": "node ."
